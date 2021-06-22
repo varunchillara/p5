@@ -1,5 +1,5 @@
 # Introduction To Generative Art Using P5.js
-Presentation for junior students and senior students introducing them to P5.js.
+Presentation for junior students introducing them to P5.js.
 
 ## SETUP:
 - Clone the repo down
